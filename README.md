@@ -1,4 +1,10 @@
-Bisp
+bisp
 ====
 
-Bill + Lisp,  currently following the tut http://www.buildyourownlisp.com to write a lisp interpreter :)
+Bill Bai's lisp implementation.
+
+I am planning to write a R7RS Scheme implementation.
+
+Currently I am following the http://www.buildyourownlisp.com to write a simple lisp interpreter for learning purpose.
+
+:)
