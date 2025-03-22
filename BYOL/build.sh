@@ -1,1 +1,1 @@
-cc -std=c99 -Wall src/hello_world.c -o hello_world
+cc -std=c99 -Wall src/hello_world.c -ledit -o hello_world 
