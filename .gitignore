@@ -30,4 +30,7 @@
 
 .DS_Store
 
+# Compliled Executables
 hello_world
+doge_parser
+s_expressions

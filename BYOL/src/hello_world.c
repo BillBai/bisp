@@ -8,14 +8,15 @@
 int main(int argc, char *argv[]) {
     puts("Bisp Version 0.0.0\n");
     puts("Press Ctrl+C to Exit\n");
-
+    
     while (1) {
         char *input = readline("Bisp> ");
-
         add_history(input);
 
+        printf("No you're a %s\n", input);
         free(input);
     }
+
 
     return 0;
 }
